@@ -139,6 +139,6 @@ body {
     position: absolute;
     bottom: 10px;;
     left: 50%;
-    margin-left: -50px;
+    transform: translateX(-50%);
   }
 }
